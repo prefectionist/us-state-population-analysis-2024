@@ -9,6 +9,12 @@ This project was intended to explore and create visualization of U.S. State popu
 - Running exploratory data analysis to better understand the data
 - Create visualization to identify outlier states and population trends.
 
+## Usage
+
+
+_TODO_
+
+
 ## Key Findings
 - Just over 1/3 (33.507%) of the country's population is concentrated in the 4 highest population states (California, Texas, Florida, and New York)
 - Utah is an outlier for states with the lowest percentage of population aged 18 and older (2.1% fewer).
@@ -20,7 +26,8 @@ This project was intended to explore and create visualization of U.S. State popu
 - Graph the state populations 18 and older and create a graph of the inverse.
 - Calculate and graph the percentage of population 18 years and older as a percentage of the total U.S. population.
 - Include previous years' data to identify population trends.  This can answer questions like.
-  - Which states are getting growing faster?  Which states are aging more?
+  - Which states are getting growing faster?
+  - Which states are aging more?
 
 ## Technologies
 - Python
